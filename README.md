@@ -25,23 +25,6 @@
 | Frontend | HTML, CSS |
 | Visualization | Matplotlib |
 ---
-## 📸 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## 📊 Charts
-
-![Charts](screenshots/charts.png)
-
-## 🤖 Model Training
-
-![Training](screenshots/train_model.png)
-
-## 🧠 AI Insights
-
-![Insights](screenshots/insights.png)
-
----
 
 # 🚀 Project Overview
 

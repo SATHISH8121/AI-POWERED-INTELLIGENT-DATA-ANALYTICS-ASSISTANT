@@ -1,4 +1,5 @@
-# AI-POWERED INTELLIGENT DATA ANALYTICS ASSISTANT
+# 💻 AI-POWERED INTELLIGENT DATA ANALYTICS ASSISTANT
+An AI-Powered Intelligent Data Analytics Assistant developed using Python, Flask, Pandas, NumPy, Scikit-learn, Matplotlib, HTML, CSS, and SQLite. The application enables users to perform data analysis, generate visualizations, train machine learning models, obtain AI-driven insights, and create automated analytics reports through an interactive web interface.
 ---
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
